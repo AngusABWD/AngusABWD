@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @AngusABWD
 - 👀 I’m interested in Web Development
-- 🌱 Tech learned :  JavaScript
+- 🌱 Tech learned :  
 -                     HTML
 -                     CSS/SASS
--                     BOOTSTRAP
--                     ANGULAR
+-                     JavaScript
+-                     Bootstrap
+-                     Angular
 -                     PHP
--                     MYSQL
--                     SYMFONY
+-                     MySQL
+-                     Symfony
 -                     
 - 📫 How to reach me : Linkedin : https://www.linkedin.com/in/boris-andermann-122086219/
 - If you want to take a look of one of my work, please just ask :)
